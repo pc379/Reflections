@@ -3,3 +3,6 @@ It gives you the ability to track history but does not automatically track. You 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is a middle man between the two. It allows you to incrementally track your changes and decide when the best time is to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Incrementally add to the staging area until you are ready to commit.
