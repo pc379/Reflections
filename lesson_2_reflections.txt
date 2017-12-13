@@ -9,3 +9,6 @@ Incrementally add to the staging area until you are ready to commit.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Wanna explore new features extensively without disturbing the current functionality or new version of your application. Branches help you commit developments in code without disturbing the development of the master branch.
+
+How do the diagrams help you visualize the branch structure?
+they map out at which commit your branches broke off into their own commits.
