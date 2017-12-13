@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It gives you the ability to track history but does not automatically track. You need to initialize commit to track a snapshot.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is a middle man between the two. It allows you to incrementally track your changes and decide when the best time is to commit.
