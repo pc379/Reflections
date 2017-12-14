@@ -16,3 +16,7 @@ they map out at which commit your branches broke off into their own commits.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 result is additions from both branches and lines removed from either branch. 
 To show what changes were made in which branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git evaluates which changes should be merged but more nebulous changes still has to be corrected manually.
+Manual merging allows ultimate flexibility.
