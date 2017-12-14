@@ -12,3 +12,7 @@ Wanna explore new features extensively without disturbing the current functional
 
 How do the diagrams help you visualize the branch structure?
 they map out at which commit your branches broke off into their own commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+result is additions from both branches and lines removed from either branch. 
+To show what changes were made in which branch.
