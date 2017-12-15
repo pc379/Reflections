@@ -13,3 +13,7 @@ Branches are a sub series of commits that branch off from the master branch of c
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To track the differences between the two masters and decide to merge them when you are ready.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You can share the code files on a cloud server and edit it manually. It would be harder to track and compare changes. 
+It would also be difficult to merge.
